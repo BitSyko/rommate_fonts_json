@@ -1,0 +1,24 @@
+{  
+   "Fonts":[  
+        {  
+            "title":"Cool Jazz",
+            "description":"A groovy twist on things.",
+            "author":"Mr Tickle",
+            "packagename":"cooljazz.zip",
+            "link":"https://dl.dropboxusercontent.com/u/75065013/rommate/cooljazz.zip",
+            "md5":"d2fd23d3afd3b15661d77a018fdfbc2d",
+            "icon":"http://i.imgur.com/CqUM3OK.png",
+            "promo":"https://dl.dropboxusercontent.com/u/75065013/layers/promo.png"
+        },
+        {  
+            "title":"Stock",
+            "description":"Stock font set.",
+            "author":"Mr Happy",
+            "packagename":"stock.zip",
+            "link":"https://dl.dropboxusercontent.com/u/75065013/rommate/stock.zip",
+            "md5":"3d99b864f1cb4c7f92517a3844777d83",
+            "icon":"http://i.imgur.com/CqUM3OK.png",
+            "promo":"https://dl.dropboxusercontent.com/u/75065013/layers/promo.png"
+        }
+        ]
+}
